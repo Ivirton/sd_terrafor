@@ -1,0 +1,9 @@
+
+---
+
+# 📚 2. Exemplo de Swagger básico (em Node.js Express)
+
+Instalar o pacote:
+
+```bash
+npm install swagger-jsdoc swagger-ui-express

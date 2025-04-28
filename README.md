@@ -14,4 +14,4 @@ Projeto de aplicação para detecção de emoções com deploy automático na AW
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/Ivirton/sd_terrafor
